@@ -1,7 +1,7 @@
 header{
-	background-color: #F5CEBE
-;
+	background-color: #F5CEBE;
 }
+
 #menu_baixo ul{
 	font-family: 'Exo', sans-serif;
 	font-weight: lighter;
@@ -80,8 +80,8 @@ body{
 	border-right: 30px solid #F4EEE8;
 	border-left: 7px solid #F4EEE8; 
 	justify-content: center;
-
 }
+
 footer{
 	position: relative;
 	bottom: 100;
@@ -92,6 +92,7 @@ footer{
 	margin-bottom: 0;
 	border: 1px solid #BCBBBB;
 	max-width: all;
+	text-decoration: none;
 }
 footer h4{
 	margin-top: 5px;
