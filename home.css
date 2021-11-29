@@ -65,14 +65,17 @@ header{
 }
 body{
 	background-image: url(./Imagens/bege.jpg);
-	margin: 0
+	margin: 0;
 }
+
 #destaques {
 	text-align: center;
 }
+
 #brasileiros img{
 	justify-content: center;
 }
+
 #artistas ul li{
 	list-style: none;
 	display: inline-flex;
