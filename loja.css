@@ -161,14 +161,18 @@ header{
 	right: 0;
 	left: 0;
 	margin: auto;
-
-	
 }
 
 .produto .btn:hover {
 	background-color: #000;
 	color: #fff;
 }
+
+.produto .btn a{
+	text-decoration: none;
+	color: #000;
+}
+
 
 footer{
 	position: relative;
