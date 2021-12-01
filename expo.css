@@ -48,6 +48,7 @@ body {
 .container p{
 	margin-right: 50px;
 	margin-left: 50px;
+	font-size: 25px;
 }
 .container h3{
 	font-size: 30px;
