@@ -42,8 +42,8 @@ body {
 .containera{
 	display: flex;
 	align-items: center;
-	margin-left: 350px;
-	margin-right: 350px;
+	margin-left: 250px;
+	margin-right: 250px;
 }
 .containera img{
 	width: 300px;
@@ -51,6 +51,7 @@ body {
 .containera p{
 	margin-right: 50px;
 	margin-left: 50px;
+	font-size: 25px;
 }
 .containera h2{
 	font-size: 30px;
@@ -74,8 +75,9 @@ body {
 	margin-right: 350px;
 }
 .container p{
-	margin-right: 50px;
-	margin-left: 70px;
+	margin-right: 40px;
+	margin-left: 60px;
+	font-size: 25px;
 }
 .container h2{
 	font-size: 30px;
@@ -200,12 +202,13 @@ body {
 .pessoas{
 	display: flex;
 	align-items: center;
-	margin-left: 770px;
-	margin-right: 350px;
+	margin-left: 700px;
+	margin-right: 100px;
 }
 .pessoas p{
 	margin-right: 50px;
 	margin-left: 50px;
+	font-size: 25px;
 }
 .pessoas h2{
 	font-size: 30px;
