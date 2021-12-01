@@ -64,7 +64,7 @@ header{
 
 }
 body{
-	background-image: #f4eee8;
+	background-image: url(./Imagens/bege.jpg);
 	margin: 0
 }
 #destaques {
@@ -82,7 +82,7 @@ body{
 
 }
 body{
-	background-image:#f4eee8;
+	background-image: url(./Imagens/bege.jpg);
 	margin: 0
 }
 h1{
