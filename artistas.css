@@ -96,6 +96,26 @@ body {
 .containera ul li img{
 		box-shadow: none;
 }
+.artist .imagem {
+	display: inline-block;
+	width: 35%;
+}
+.artist .texto {
+	display: inline-block;
+	width: 65%;
+	float: right;
+}
+
+.artist .imagem2 {
+	display: inline-block;
+	width: 35%;
+	float: right;
+}
+.artist .texto2 {
+	display: inline-block;
+	width: 65%;
+	float: left;
+}
 footer{
 	position: relative;
 	bottom: 100;
