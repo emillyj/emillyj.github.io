@@ -102,16 +102,6 @@ body {
 	margin: 1.5px;
 } 
 
-.imagem-item:nth-child(1),
-.imagem-item:nth-child(2),
-.imagem-item:nth-child(3),{
-	margin-right:0
-}
-
-.imagem-item: hover {
-	opacity: 0.80;
-}
-
 .container {
 	margin:0 auto;
 	margin-bottom: 10px;
