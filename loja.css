@@ -91,16 +91,17 @@ header{
 	font-weight: bold;
 	margin-bottom: 20px ;
 	display:block;
-	margin-top: 30px;
+	margin-top: 20px;
 	padding: 10px;
 }
 
 .produtos {
 	display: flex;
-	flex-direction: row;
 	justify-content: space-around;
-	margin-bottom: 20px;
-	
+	font-family: 'Exo', sans-serif;
+	margin-left: 85px;
+	margin-right: 85px;
+	margin-bottom: 15px;
 }
 
 .produto{
