@@ -45,11 +45,12 @@ h2{
 	text-align: center;
 	font-family: 'Exo', sans-serif;
 	font-weight: bolder;
+	font-size: 30px;
 }
 p{
 	text-align: center;
 	font-family: 'Exo', sans-serif;
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: normal;
 }
 iframe{
@@ -84,6 +85,7 @@ iframe{
 	border-right: 250px solid #F4EEE8;
 	border-left: 10px solid #F4EEE8;
 	font-weight: normal;
+	font-size: 25px;
 	margin-bottom: 50px;
 }
 footer{
