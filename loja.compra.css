@@ -25,6 +25,22 @@ body {
 	display: inline;
 }
 
+#menu_baixo ul{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	font-size: 23px;
+	list-style: none;
+	padding:20;
+	display: flex;
+	margin: 0 0 0 30px;
+	justify-content: flex-end;
+	justify-content: safe center;
+}
+
+#menu_baixo ul li {
+	display: inline;
+}
+
 #menu_baixo ul li a {
 	color: #000;
 	padding: 20px;
@@ -35,14 +51,13 @@ body {
 
 #menu_baixo ul li a:hover {
 	background-color: #F4EEE8;
-
 }
 #menu_cima ul{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: lighter;
 	max-width: 800px;
 	list-style: none;
-	padding:20px;
+	padding:20;
 	display: flex;
 	text-align: left;
 	margin: 0 0 0 30px;
@@ -61,11 +76,11 @@ body {
 }
 
 #menu_cima ul li a:hover {
-	background-color: #F4EEE8;
+	background-color: #F4EEE8
+;
 }
-
-#foto_logo {
-	padding: 20px;
+#foto_logo{
+	padding: 20;
 	display: block;
 	text-align: center;
 }
