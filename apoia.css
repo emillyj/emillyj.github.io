@@ -42,8 +42,8 @@ body {
 .containera{
 	display: flex;
 	align-items: center;
-	margin-left: 250px;
-	margin-right: 250px;
+	margin-left: 200px;
+	margin-right: 200px;
 }
 .containera img{
 	width: 300px;
