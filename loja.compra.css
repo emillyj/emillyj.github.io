@@ -296,9 +296,7 @@ body {
 	bottom:25px;
 	right: 0;
 	left: 0;
-	margin: auto;
-
-	
+	margin: auto;	
 }
 
 .produto .btn:hover {
@@ -306,11 +304,7 @@ body {
 	color: #fff;
 }
 
-
-
-
 footer{
-	padding: 10px;
 	position: relative;
 	bottom: 100;
 	background-color: #F4EEE8;
