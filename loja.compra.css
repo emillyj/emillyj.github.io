@@ -293,13 +293,14 @@ body {
 
 footer{
 	position: relative;
-	bottom: 100px;
+	bottom: 100;
 	background-color: #F4EEE8;
 	max-height: 500px;
 	text-align: center;
 	line-height: normal;
 	margin-bottom: 0;
 	border: 1px solid #BCBBBB;
+	max-width: all;
 }
 
 footer h4 {
