@@ -45,7 +45,7 @@ h1 {
 	font-family: 'Exo', sans-serif;
 	font-weight: bold;
 	padding: 15px;
-	font-size: 40px;
+	font-size: 30px;
 	text-align: center;
 }
 
@@ -114,7 +114,7 @@ section {
 	overflow: hidden;
 	max-height: 0;
 	position: relative;
-	font-size: 1.3rem;
+	font-size: 25px;
 	color: #515151;
 	background-color:#F2E2D9;
 	transition: max-height 650ms;
@@ -129,14 +129,14 @@ section {
 	top: 50%;
 	left: 0;
 	transform: translatey(-50%) ;
-	background-color:#325288;
+	background-color:#114e60;
 }
 .ver-menos {
 	display: none;
 }
 
 .informação p{
-	font-size: 1.4rem;
+	font-size: 25px;
 	padding: 2rem;
 }
 
@@ -175,14 +175,14 @@ h2 {
 	font-family: 'Exo', sans-serif;
 	font-weight: bold;
 	padding: 10px;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 h3 {
 	font-family: 'Exo', sans-serif;
 	font-weight: bold;
 	padding: 15px;
-	font-size: 23px;
+	font-size: 25px;
 	position: relative;
 }
 
@@ -209,7 +209,7 @@ h3 {
 	border:  0.3px solid rgba(0, 0, 0, 0.9);
 	border-color: #707070 ;
 	background-color: rgba(251, 251, 240, 0.9);
-	font-size: 1.1rem;
+	font-size: 25px;
 	margin-bottom: 15px;
 	border-radius: 8px;
 	transform: .3s;
